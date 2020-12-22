@@ -24,6 +24,12 @@ Make a local clone of this repo, so you can work on it from your own computer.
 ```
 git clone https://github.com/FOSS-Cell-GECPKD/Todo-List.git
 ```
+Make your own branch<br/>
+Do the changes<br/>
+Commit the code with a proper message<br/> 
+Push the code to the remote repository. <br/>
+create the Pull Request, and wait for merge<br/>
+Always make 1 PR at time.<br/> 
 
 ## Community
 Discussions about Todo-List takes place on <a href="https://gitter.im/FOSS-Cell-GECPKD/Todo-List">Gitter chat</a>. Anyone is welcome to join these conversations.
