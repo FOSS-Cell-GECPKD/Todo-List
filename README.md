@@ -15,6 +15,16 @@ This project is designed specially for beginners who has put there first step in
 - Delete a todo item
 - Mark a todo item as completed
 - Generate a report
+
+## SETUP
+Clone this repo!
+
+Make a local clone of this repo, so you can work on it from your own computer.
+
+```
+git clone https://github.com/FOSS-Cell-GECPKD/Todo-List.git
+```
+
 ## Community
 Discussions about Todo-List takes place on <a href="https://gitter.im/FOSS-Cell-GECPKD/Todo-List">Gitter chat</a>. Anyone is welcome to join these conversations.
 
