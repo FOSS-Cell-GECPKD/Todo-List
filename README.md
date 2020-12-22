@@ -18,3 +18,13 @@ Discussions about Todo-List takes place on <a href="https://gitter.im/FOSS-Cell-
 
 
 ## Contributors
+Thanks goes to these wonderful peoples.
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+    <td align="center"><a href="https://rishikeshrajrxl.github.io/#/"><img src="  " width="100px;" alt=""/><br /><sub><b>Rishikesh Raj</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/FOSS-Cell-GECPKD/Todo-List" title="Documentation">📖</a> <a href="https://github.com/Rishikeshrajrxl" title="Code">💻</a></td>
+  </tr>
+  </table>
