@@ -25,6 +25,6 @@ Thanks goes to these wonderful peoples.
 
 <table>
   <tr>
-    <td align="center"><a href="https://rishikeshrajrxl.github.io/#/"><img src="  " width="100px;" alt=""/><br /><sub><b>Rishikesh Raj</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/FOSS-Cell-GECPKD/Todo-List" title="Documentation">📖</a> <a href="https://github.com/Rishikeshrajrxl" title="Code">💻</a></td>
+    <td align="center"><a href="https://rishikeshrajrxl.github.io/#/"><img src="https://avatars1.githubusercontent.com/u/48375834?v=4" width="100px;" alt=""/><br /><sub><b>Rishikesh Raj</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/FOSS-Cell-GECPKD/Todo-List" title="Documentation">📖</a> <a href="https://github.com/Rishikeshrajrxl" title="Code">💻</a></td>
   </tr>
   </table>
