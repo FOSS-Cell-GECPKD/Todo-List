@@ -4,6 +4,7 @@
 [![Join the chat at https://gitter.im/FOSS-Cell-GECPKD/Todo-List](https://img.shields.io/badge/chat-on%20gitter-blue?style=for-the-badge)](https://gitter.im/FOSS-Cell-GECPKD/Todo-List?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## About
 This project is designed specially for beginners who has put there first step in opensource contribution. So feel free to contribute.
+## Demo
 <br/>
 ![Demo of usage](ezgif.com-gif-maker.gif)
 
