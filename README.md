@@ -5,7 +5,7 @@
 ## About
 This project is designed specially for beginners who has put there first step in opensource contribution. So feel free to contribute.
 <br/>
-![Demo of usage](updated-todo-video.gif)
+![Demo of usage](ezgif.com-gif-maker.gif)
 
 ## Features
 
