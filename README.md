@@ -9,12 +9,58 @@ This project is designed specially for beginners who has put there first step in
 <br/>
 <img src="demo.png" width="400px;" height="200px;">
 ## Features
-- Help
-- List all the Pending todos
+
 - Add a new todos
+- List all the Pending todos
 - Delete a todo item
 - Mark a todo item as completed
 - Generate a report
+- Exit
+
+## Specification
+The program should read from and write to a `todo.txt` text file. Each todo item occupies a single line in this file. Here is an example file that has 2 todo items.
+
+```txt
+water the plants
+change light bulb
+```
+
+When a todo item is completed, it should be removed from `todo.txt` and instead added to the `done.txt` text file.
+
+
+## Usages
+- Add e new todo 
+```
+Use this function to add a new todo item.
+```
+- Show the remaining todos
+```
+Use this function to see all the todos that are yet not completed. The most recently added todo should be displayed first.
+```
+- Delete a todo
+```
+Use this function to remove a todo item by its number.
+Attempting to delete a non-existing todo item should display an erroe message .
+
+"Error : todo #<number of todo>does not exist. Nothing is deleted. "
+```
+- Complete a todo 
+```
+Use this function to mark a todo item as completed by its number.
+Attempting to mark a non-existed todo item as completed will display an error message.
+
+"Error: todo #<number of todo> does not exist."
+```
+- Statistics
+```
+Use this function to see the latest tally of pending and completed todos.
+
+YYYY-mmm-dd Pending : 1  Cpmpleted : 5 
+```
+- Exit
+```
+This will simply terminate the program.
+```
 
 ## SETUP
 Clone this repo!
