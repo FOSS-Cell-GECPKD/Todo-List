@@ -8,6 +8,11 @@
 This project is designed specially for beginners who has put there first step in opensource contribution. So feel free to contribute.
 <br/>
 <img src="demo.png" width="400px;" height="200px;">
+
+
+
+![Demo of usage](updated-todo-video.gif)
+
 ## Features
 
 - Add a new todos
