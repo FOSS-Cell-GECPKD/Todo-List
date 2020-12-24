@@ -11,7 +11,7 @@ In this project our aim is to implement a command-line (CLI) program that lets y
 
 Here's how it should work when you're done:
 
-![Demo of usage](ezgif.com-gif-maker_cls todo-list.gif)
+![Demo of usage](https://github.com/FOSS-Cell-GECPKD/Todo-List/blob/main/ezgif.com-gif-maker_cls%20todo-list.gif)
 
 ## Getting started
 
