@@ -169,3 +169,4 @@ Thanks goes to these wonderful peoples.
   </tr>
   </table>
 
+This project was a part of FOSS OpenHack '20: https://openhack.gitbook.io/openhack-20/.
